@@ -1,5 +1,5 @@
 ./data/videos/*
 ./data/audios/*
 ./data/audio_extracts/*
-./data/hume/raw_predictions/*
+./data/hume/raw_predictions/
 
